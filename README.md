@@ -5,3 +5,5 @@
 ## 주차별 기록
 
 - [Week1](./Week1.md)
+- [Week2](./Week2.md)
+
